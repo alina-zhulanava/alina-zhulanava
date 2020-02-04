@@ -1,0 +1,15 @@
+fast form
+all branches should merge in the end of master
+squash - make some commits to one
+merge - turn branches onto one
+1. squash
+2. go to end of master
+new branch creating from the latest commit
+git checkout -b branch1 -> in console branch1$
+git checkout origin master -> go back to master branch
+
+git log: neeed to bring +1 number
+shift+Q to leave git log
+git rebase -i <number of need commints>
+s [-to enter
+esc ]
